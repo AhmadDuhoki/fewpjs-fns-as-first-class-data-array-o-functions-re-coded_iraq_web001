@@ -22,7 +22,7 @@ function throwFrisbee(dogName, dogBreed) {
   return message;
 }
 
-function walkHomeDog(dogName, dogBreed) {
+function walkHome(dogName, dogBreed) {
   console.log(`Walk home with ${dogName} the ${dogBreed}`);
   let message = `Walk home with ${dogName} the ${dogBreed}`;
   return message;
