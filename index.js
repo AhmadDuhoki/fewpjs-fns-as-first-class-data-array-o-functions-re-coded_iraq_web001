@@ -34,4 +34,6 @@ function unleashDog(dogName, dogBreed) {
   return message;
 }
 
+const routine = [wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog];
+
 
